@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETMAUIBigFileSaveExample", "NETMAUIBigFileSaveExample\NETMAUIBigFileSaveExample.csproj", "{C481AD1D-1BFD-4DF8-BDCD-DAC84642D6EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C481AD1D-1BFD-4DF8-BDCD-DAC84642D6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C481AD1D-1BFD-4DF8-BDCD-DAC84642D6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C481AD1D-1BFD-4DF8-BDCD-DAC84642D6EB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C481AD1D-1BFD-4DF8-BDCD-DAC84642D6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C481AD1D-1BFD-4DF8-BDCD-DAC84642D6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C481AD1D-1BFD-4DF8-BDCD-DAC84642D6EB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6079B94C-1A7C-4BA6-B04E-6B3775D669AD}
+	EndGlobalSection
+EndGlobal
